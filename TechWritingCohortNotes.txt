@@ -1,0 +1,78 @@
+Tech Writing Cohort Notes:
+
+Getting Started
+Should be able to get it all done in a single week
+Dr. Joe Barnhart
+1-877-435-7948 ext 4889
+Dr. Dave Huff
+1-877-435-7948 ext 1854
+Dr. Charlie Paddock
+1-877-435-7948 ext 1858
+Send it to UGCapstoneIT@WGU.edu, use subject line "Cohort"
+
+Use the template from the fileshare (download.zip on laptop, will be moved later)
+
+Assessment code C769? NO, DDT1 for C435
+
+Capstone Process:
+Single process with 3 phases:
+1. Proposal (Tech Writing) 20 hours
+2. Project (Implementing what you've proposed)
+3. Project Report (Capstone)
+
+=======================
+Developing a Topic:
+Make sure it is something interesting
+have some or most of the skills needed to implement the project
+can identify specific project deliverables
+aligns with emphasis and is "doable" in the time frame.
+
+Topic:
+mobile game with server reporting
+-deliverables: server with logging, android game
+
+use the project scope template (good time saver)
+
+Critical concern:
+project scope has to be large enough to encounter problems while executing
+cannot pass capstone report assessment if you pick too small of a project even though you can pass the 
+tech writing assessment
+
+To Execute or Not?
+-Can propose, execute, and write about the project, but is a problem because of the time frame
+-Can choose a project that has been recently been completed, not an option for me
+-Some people can choose a project that's complete hypothetical
+	-most difficult method and not recommended
+
+Waiver is required for everyone
+-Contains proprietary content or not (try and avoid proprietary)
+	-Fuzz all proprietary details
+	-genericize the facts (ABC Corp)
+
+Topic ideas:
+-Software: Create/build website or design/implement a mobile application
+
+Technical Writing:
+Intro/Summary:
+Provide a summary of proposed Tech projct
+Need: organization, the problem, my role in solving the problem, the overview 
+of the solution, and statement of the proposal
+-inclue brief overall of all major sections in the th proposal
+-have a high level overview
+-Explicit purpose of project-Last sentence to explain that this is a proposal 
+to analyze, design and implement X, y , z
+Suggested Length: 2-3 pages (double spaced, 12pt font)
+
+========================
+
+Project Summary/Introduction:
+"What are you working on these days" - keep it high level with 
+little specific detail
+
+Project Rationale:
+
+
+JIRA/Sharepoint project would be good candidate
+-Problems encountered: incomplete documentation of maven repository requirements lost several hours 
+						unfamiliarity with use of maven 
+						
