@@ -63,6 +63,8 @@ of the solution, and statement of the proposal
 to analyze, design and implement X, y , z
 Suggested Length: 2-3 pages (double spaced, 12pt font)
 
+
+
 ========================
 
 Project Summary/Introduction:
@@ -75,4 +77,10 @@ Project Rationale:
 JIRA/Sharepoint project would be good candidate
 -Problems encountered: incomplete documentation of maven repository requirements lost several hours 
 						unfamiliarity with use of maven 
-						
+
+Review of Other Work:
+-Relevent to the project 
+	-Support understanding of project purpose
+	-Support understanding of proposed solution
+-Case studies of similar projects, testimonials, comparison of solutions, 
+-2-3 pages in length, minimum 4 sources, preferably more
